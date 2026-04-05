@@ -38,7 +38,7 @@ source $HOME/.local/bin/env  # o añadir ~/.local/bin al PATH
 
 ### 2. Clonar el repositorio
 ```bash
-git clone https://github.com/TU_USUARIO/agentic-ai-bootcamp.git
+git clone https://github.com/mgalanme/agentic-ai-bootcamp.git
 cd agentic-ai-bootcamp
 ```
 
@@ -355,7 +355,7 @@ Completa el simulador ARGOS-FCC añadiendo detección de fraude transaccional y 
 ---
 
 ## Arquitectura del sistema ARGOS-FCC
-[200~┌─────────────────────────────────────────────────────┐
+┌─────────────────────────────────────────────────────┐
 │                   ARGOS-FCC                         │
 │         Agentive Risk & Governance Operating        │
 │         System for Financial Crime Control          │
