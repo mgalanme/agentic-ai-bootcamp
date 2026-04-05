@@ -355,23 +355,18 @@ Completa el simulador ARGOS-FCC añadiendo detección de fraude transaccional y 
 ---
 
 ## Arquitectura del sistema ARGOS-FCC
-┌─────────────────────────────────────────────────────┐
-│                   ARGOS-FCC                         │
-│         Agentive Risk & Governance Operating        │
-│         System for Financial Crime Control          │
-├──────────────┬──────────────────┬───────────────────┤
-│ Módulo AML   │ Módulo Fraude    │ Módulo KYC/KYB    │
-│ LangGraph    │ LangChain        │ CrewAI             │
-│ stateful     │ structured output│ multi-agente       │
-│ 3 nodos      │ alta frecuencia  │ 2 roles            │
-├──────────────┴──────────────────┴───────────────────┤
-│              Capa de datos compartida               │
-│  Neo4j (grafo) · Qdrant (regulación) · Bronze JSON  │
-├─────────────────────────────────────────────────────┤
-│              Governance y trazabilidad              │
-│  Human-in-the-Loop · LangSmith · Expedientes        │
-│  FATF · AMLD6 · Ley 10/2010 · GDPR · PSD2          │
-└─────────────────────────────────────────────────────┘~
+| Capa | Módulo | Framework | Patrón |
+|---|---|---|---|
+| **Inteligencia** | AML | LangGraph | Stateful · 3 nodos · HITL |
+| **Inteligencia** | Fraude Transaccional | LangChain | Structured output · alta frecuencia |
+| **Inteligencia** | KYC/KYB | CrewAI | Multi-agente · 2 roles |
+| **Datos** | Grafo de entidades | Neo4j | GraphRAG · traversal Cypher |
+| **Datos** | Conocimiento regulatorio | Qdrant | RAG vectorial · cosine similarity |
+| **Datos** | Registro inmutable | Bronze JSON | Pipeline Medallion |
+| **Governance** | Trazabilidad | LangSmith | Trace por alerta |
+| **Governance** | Control humano | LangGraph HITL | interrupt before |
+| **Regulación** | Marco normativo | FATF · AMLD6 · Ley 10/2010 · GDPR · PSD2 | Constraints de diseño |
+
 ## Notas de implementación
 
 **Sobre los límites de Groq (capa gratuita):**
