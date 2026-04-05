@@ -1,4 +1,4 @@
-# Agentic AI Bootcamp: De Arquitecto de Datos a Arquitecto de IA Agéntica
+# Agentic AI Bootcamp
 
 Formación intensiva de 6 días para profesionales de arquitectura de datos y arquitectura empresarial que quieren adquirir capacidad de delivery en sistemas de IA agéntica.
 
