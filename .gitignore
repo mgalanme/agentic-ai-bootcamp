@@ -1,0 +1,35 @@
+# Entornos virtuales
+.venv/
+.venv-langchain/
+.venv-crewai/
+
+# Variables de entorno con credenciales
+.env
+
+# Datos generados (pesados o sensibles)
+data/chroma/
+data/chroma_adrs/
+data/chroma_integracion/
+data/qdrant/
+data/fcc/expedientes/
+
+# Python
+__pycache__/
+*.pyc
+*.pyo
+.pytest_cache/
+
+# Jupyter
+.ipynb_checkpoints/
+*.ipynb
+
+# Modelos HuggingFace (caché local)
+.cache/
+
+# IDE
+.vscode/
+.idea/
+
+# Logs
+*.log
+uv.lock

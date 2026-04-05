@@ -1,0 +1,983 @@
+[
+  {
+    "id": "CTA-00001",
+    "id_cliente": "CLI-0001",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-05-16",
+    "estado": "activa",
+    "saldo_inicial": 45929.3
+  },
+  {
+    "id": "CTA-00002",
+    "id_cliente": "CLI-0001",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-05-16",
+    "estado": "activa",
+    "saldo_inicial": 98378.49
+  },
+  {
+    "id": "CTA-00003",
+    "id_cliente": "CLI-0002",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-06-01",
+    "estado": "activa",
+    "saldo_inicial": 119163.44
+  },
+  {
+    "id": "CTA-00004",
+    "id_cliente": "CLI-0003",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-04-07",
+    "estado": "activa",
+    "saldo_inicial": 99746.15
+  },
+  {
+    "id": "CTA-00005",
+    "id_cliente": "CLI-0003",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-04-07",
+    "estado": "cerrada",
+    "saldo_inicial": 35612.86
+  },
+  {
+    "id": "CTA-00006",
+    "id_cliente": "CLI-0003",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-04-07",
+    "estado": "activa",
+    "saldo_inicial": 4151.6
+  },
+  {
+    "id": "CTA-00007",
+    "id_cliente": "CLI-0004",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-08-24",
+    "estado": "activa",
+    "saldo_inicial": 11387.82
+  },
+  {
+    "id": "CTA-00008",
+    "id_cliente": "CLI-0005",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-01-12",
+    "estado": "activa",
+    "saldo_inicial": 104604.96
+  },
+  {
+    "id": "CTA-00009",
+    "id_cliente": "CLI-0006",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-09-27",
+    "estado": "activa",
+    "saldo_inicial": 133952.64
+  },
+  {
+    "id": "CTA-00010",
+    "id_cliente": "CLI-0007",
+    "tipo": "empresa",
+    "divisa": "USD",
+    "fecha_apertura": "2023-12-09",
+    "estado": "activa",
+    "saldo_inicial": 33216.75
+  },
+  {
+    "id": "CTA-00011",
+    "id_cliente": "CLI-0007",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-12-09",
+    "estado": "activa",
+    "saldo_inicial": 69950.21
+  },
+  {
+    "id": "CTA-00012",
+    "id_cliente": "CLI-0008",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-02-22",
+    "estado": "activa",
+    "saldo_inicial": 100302.87
+  },
+  {
+    "id": "CTA-00013",
+    "id_cliente": "CLI-0009",
+    "tipo": "ahorro",
+    "divisa": "GBP",
+    "fecha_apertura": "2026-03-08",
+    "estado": "activa",
+    "saldo_inicial": 92091.52
+  },
+  {
+    "id": "CTA-00014",
+    "id_cliente": "CLI-0009",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2026-03-08",
+    "estado": "activa",
+    "saldo_inicial": 134632.61
+  },
+  {
+    "id": "CTA-00015",
+    "id_cliente": "CLI-0009",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2026-03-08",
+    "estado": "activa",
+    "saldo_inicial": 126059.5
+  },
+  {
+    "id": "CTA-00016",
+    "id_cliente": "CLI-0010",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-06-07",
+    "estado": "activa",
+    "saldo_inicial": 36267.26
+  },
+  {
+    "id": "CTA-00017",
+    "id_cliente": "CLI-0011",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-04-21",
+    "estado": "activa",
+    "saldo_inicial": 134007.51
+  },
+  {
+    "id": "CTA-00018",
+    "id_cliente": "CLI-0012",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-12-05",
+    "estado": "activa",
+    "saldo_inicial": 106109.66
+  },
+  {
+    "id": "CTA-00019",
+    "id_cliente": "CLI-0013",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-08-09",
+    "estado": "activa",
+    "saldo_inicial": 9808.72
+  },
+  {
+    "id": "CTA-00020",
+    "id_cliente": "CLI-0014",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2022-05-27",
+    "estado": "activa",
+    "saldo_inicial": 104480.69
+  },
+  {
+    "id": "CTA-00021",
+    "id_cliente": "CLI-0014",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-05-27",
+    "estado": "bloqueada",
+    "saldo_inicial": 45142.59
+  },
+  {
+    "id": "CTA-00022",
+    "id_cliente": "CLI-0015",
+    "tipo": "empresa",
+    "divisa": "USD",
+    "fecha_apertura": "2022-04-24",
+    "estado": "activa",
+    "saldo_inicial": 80963.97
+  },
+  {
+    "id": "CTA-00023",
+    "id_cliente": "CLI-0016",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-07-13",
+    "estado": "activa",
+    "saldo_inicial": 73103.48
+  },
+  {
+    "id": "CTA-00024",
+    "id_cliente": "CLI-0016",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-07-13",
+    "estado": "activa",
+    "saldo_inicial": 60945.34
+  },
+  {
+    "id": "CTA-00025",
+    "id_cliente": "CLI-0017",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2022-07-31",
+    "estado": "cerrada",
+    "saldo_inicial": 80351.48
+  },
+  {
+    "id": "CTA-00026",
+    "id_cliente": "CLI-0018",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-04-03",
+    "estado": "activa",
+    "saldo_inicial": 13050.15
+  },
+  {
+    "id": "CTA-00027",
+    "id_cliente": "CLI-0018",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-04-03",
+    "estado": "activa",
+    "saldo_inicial": 27668.49
+  },
+  {
+    "id": "CTA-00028",
+    "id_cliente": "CLI-0018",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-04-03",
+    "estado": "activa",
+    "saldo_inicial": 68477.55
+  },
+  {
+    "id": "CTA-00029",
+    "id_cliente": "CLI-0019",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-01-13",
+    "estado": "cerrada",
+    "saldo_inicial": 63523.94
+  },
+  {
+    "id": "CTA-00030",
+    "id_cliente": "CLI-0020",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-03-28",
+    "estado": "activa",
+    "saldo_inicial": 149986.22
+  },
+  {
+    "id": "CTA-00031",
+    "id_cliente": "CLI-0020",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-03-28",
+    "estado": "activa",
+    "saldo_inicial": 143614.2
+  },
+  {
+    "id": "CTA-00032",
+    "id_cliente": "CLI-0021",
+    "tipo": "corriente",
+    "divisa": "USD",
+    "fecha_apertura": "2022-07-07",
+    "estado": "activa",
+    "saldo_inicial": 3546.81
+  },
+  {
+    "id": "CTA-00033",
+    "id_cliente": "CLI-0022",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-08-30",
+    "estado": "activa",
+    "saldo_inicial": 142189.67
+  },
+  {
+    "id": "CTA-00034",
+    "id_cliente": "CLI-0023",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-10-24",
+    "estado": "activa",
+    "saldo_inicial": 91283.5
+  },
+  {
+    "id": "CTA-00035",
+    "id_cliente": "CLI-0024",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2026-01-09",
+    "estado": "activa",
+    "saldo_inicial": 47000.32
+  },
+  {
+    "id": "CTA-00036",
+    "id_cliente": "CLI-0024",
+    "tipo": "corriente",
+    "divisa": "USD",
+    "fecha_apertura": "2026-01-09",
+    "estado": "activa",
+    "saldo_inicial": 136249.91
+  },
+  {
+    "id": "CTA-00037",
+    "id_cliente": "CLI-0025",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-10-26",
+    "estado": "activa",
+    "saldo_inicial": 94272.74
+  },
+  {
+    "id": "CTA-00038",
+    "id_cliente": "CLI-0026",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2022-01-08",
+    "estado": "activa",
+    "saldo_inicial": 18597.73
+  },
+  {
+    "id": "CTA-00039",
+    "id_cliente": "CLI-0027",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-09-13",
+    "estado": "activa",
+    "saldo_inicial": 55900.35
+  },
+  {
+    "id": "CTA-00040",
+    "id_cliente": "CLI-0027",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-09-13",
+    "estado": "activa",
+    "saldo_inicial": 73785.15
+  },
+  {
+    "id": "CTA-00041",
+    "id_cliente": "CLI-0027",
+    "tipo": "ahorro",
+    "divisa": "GBP",
+    "fecha_apertura": "2023-09-13",
+    "estado": "activa",
+    "saldo_inicial": 124391.74
+  },
+  {
+    "id": "CTA-00042",
+    "id_cliente": "CLI-0028",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-18",
+    "estado": "activa",
+    "saldo_inicial": 97743.38
+  },
+  {
+    "id": "CTA-00043",
+    "id_cliente": "CLI-0028",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-18",
+    "estado": "activa",
+    "saldo_inicial": 89074.96
+  },
+  {
+    "id": "CTA-00044",
+    "id_cliente": "CLI-0029",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-05-03",
+    "estado": "activa",
+    "saldo_inicial": 132303.86
+  },
+  {
+    "id": "CTA-00045",
+    "id_cliente": "CLI-0030",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-07-21",
+    "estado": "activa",
+    "saldo_inicial": 50791.29
+  },
+  {
+    "id": "CTA-00046",
+    "id_cliente": "CLI-0031",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-05-16",
+    "estado": "activa",
+    "saldo_inicial": 53546.33
+  },
+  {
+    "id": "CTA-00047",
+    "id_cliente": "CLI-0032",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2024-10-26",
+    "estado": "activa",
+    "saldo_inicial": 41802.15
+  },
+  {
+    "id": "CTA-00048",
+    "id_cliente": "CLI-0033",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-10-02",
+    "estado": "activa",
+    "saldo_inicial": 73542.39
+  },
+  {
+    "id": "CTA-00049",
+    "id_cliente": "CLI-0034",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-29",
+    "estado": "activa",
+    "saldo_inicial": 119043.46
+  },
+  {
+    "id": "CTA-00050",
+    "id_cliente": "CLI-0034",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-29",
+    "estado": "activa",
+    "saldo_inicial": 36874.12
+  },
+  {
+    "id": "CTA-00051",
+    "id_cliente": "CLI-0035",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-10-17",
+    "estado": "activa",
+    "saldo_inicial": 51891.73
+  },
+  {
+    "id": "CTA-00052",
+    "id_cliente": "CLI-0035",
+    "tipo": "empresa",
+    "divisa": "GBP",
+    "fecha_apertura": "2024-10-17",
+    "estado": "activa",
+    "saldo_inicial": 53095.67
+  },
+  {
+    "id": "CTA-00053",
+    "id_cliente": "CLI-0036",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-07-21",
+    "estado": "activa",
+    "saldo_inicial": 29291.35
+  },
+  {
+    "id": "CTA-00054",
+    "id_cliente": "CLI-0037",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-02-10",
+    "estado": "activa",
+    "saldo_inicial": 28179.9
+  },
+  {
+    "id": "CTA-00055",
+    "id_cliente": "CLI-0038",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-03-17",
+    "estado": "activa",
+    "saldo_inicial": 114151.08
+  },
+  {
+    "id": "CTA-00056",
+    "id_cliente": "CLI-0039",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-05-17",
+    "estado": "activa",
+    "saldo_inicial": 54451.72
+  },
+  {
+    "id": "CTA-00057",
+    "id_cliente": "CLI-0040",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-23",
+    "estado": "cerrada",
+    "saldo_inicial": 83227.17
+  },
+  {
+    "id": "CTA-00058",
+    "id_cliente": "CLI-0041",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-03-19",
+    "estado": "activa",
+    "saldo_inicial": 15836.85
+  },
+  {
+    "id": "CTA-00059",
+    "id_cliente": "CLI-0041",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-03-19",
+    "estado": "activa",
+    "saldo_inicial": 66350.09
+  },
+  {
+    "id": "CTA-00060",
+    "id_cliente": "CLI-0042",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-03-05",
+    "estado": "activa",
+    "saldo_inicial": 17556.03
+  },
+  {
+    "id": "CTA-00061",
+    "id_cliente": "CLI-0043",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-07-14",
+    "estado": "activa",
+    "saldo_inicial": 103124.43
+  },
+  {
+    "id": "CTA-00062",
+    "id_cliente": "CLI-0044",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-02-01",
+    "estado": "bloqueada",
+    "saldo_inicial": 13234.55
+  },
+  {
+    "id": "CTA-00063",
+    "id_cliente": "CLI-0045",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-10-07",
+    "estado": "activa",
+    "saldo_inicial": 34240.23
+  },
+  {
+    "id": "CTA-00064",
+    "id_cliente": "CLI-0046",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2022-08-01",
+    "estado": "activa",
+    "saldo_inicial": 88484.51
+  },
+  {
+    "id": "CTA-00065",
+    "id_cliente": "CLI-0047",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-01-11",
+    "estado": "activa",
+    "saldo_inicial": 142164.73
+  },
+  {
+    "id": "CTA-00066",
+    "id_cliente": "CLI-0048",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-17",
+    "estado": "activa",
+    "saldo_inicial": 36359.84
+  },
+  {
+    "id": "CTA-00067",
+    "id_cliente": "CLI-0049",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-07-16",
+    "estado": "activa",
+    "saldo_inicial": 89274.77
+  },
+  {
+    "id": "CTA-00068",
+    "id_cliente": "CLI-0050",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-08-07",
+    "estado": "activa",
+    "saldo_inicial": 129011.21
+  },
+  {
+    "id": "CTA-00069",
+    "id_cliente": "CLI-0051",
+    "tipo": "corriente",
+    "divisa": "USD",
+    "fecha_apertura": "2021-11-08",
+    "estado": "activa",
+    "saldo_inicial": 93946.17
+  },
+  {
+    "id": "CTA-00070",
+    "id_cliente": "CLI-0052",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-05-09",
+    "estado": "activa",
+    "saldo_inicial": 97321.39
+  },
+  {
+    "id": "CTA-00071",
+    "id_cliente": "CLI-0052",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-05-09",
+    "estado": "activa",
+    "saldo_inicial": 25305.46
+  },
+  {
+    "id": "CTA-00072",
+    "id_cliente": "CLI-0053",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-12-05",
+    "estado": "activa",
+    "saldo_inicial": 45961.63
+  },
+  {
+    "id": "CTA-00073",
+    "id_cliente": "CLI-0054",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-06-13",
+    "estado": "activa",
+    "saldo_inicial": 12526.06
+  },
+  {
+    "id": "CTA-00074",
+    "id_cliente": "CLI-0055",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-11-02",
+    "estado": "activa",
+    "saldo_inicial": 4366.8
+  },
+  {
+    "id": "CTA-00075",
+    "id_cliente": "CLI-0056",
+    "tipo": "corriente",
+    "divisa": "GBP",
+    "fecha_apertura": "2021-08-15",
+    "estado": "activa",
+    "saldo_inicial": 40791.9
+  },
+  {
+    "id": "CTA-00076",
+    "id_cliente": "CLI-0057",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-08-29",
+    "estado": "activa",
+    "saldo_inicial": 97900.67
+  },
+  {
+    "id": "CTA-00077",
+    "id_cliente": "CLI-0058",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-06-04",
+    "estado": "activa",
+    "saldo_inicial": 95400.32
+  },
+  {
+    "id": "CTA-00078",
+    "id_cliente": "CLI-0058",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-06-04",
+    "estado": "activa",
+    "saldo_inicial": 52520.18
+  },
+  {
+    "id": "CTA-00079",
+    "id_cliente": "CLI-0058",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-06-04",
+    "estado": "activa",
+    "saldo_inicial": 128731.1
+  },
+  {
+    "id": "CTA-00080",
+    "id_cliente": "CLI-0059",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-08-05",
+    "estado": "bloqueada",
+    "saldo_inicial": 122128.12
+  },
+  {
+    "id": "CTA-00081",
+    "id_cliente": "CLI-0060",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-07-30",
+    "estado": "activa",
+    "saldo_inicial": 17830.28
+  },
+  {
+    "id": "CTA-00082",
+    "id_cliente": "CLI-0061",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-08-31",
+    "estado": "activa",
+    "saldo_inicial": 62280.51
+  },
+  {
+    "id": "CTA-00083",
+    "id_cliente": "CLI-0061",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-08-31",
+    "estado": "activa",
+    "saldo_inicial": 75024.72
+  },
+  {
+    "id": "CTA-00084",
+    "id_cliente": "CLI-0062",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-07-09",
+    "estado": "activa",
+    "saldo_inicial": 20086.48
+  },
+  {
+    "id": "CTA-00085",
+    "id_cliente": "CLI-0063",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-10-13",
+    "estado": "cerrada",
+    "saldo_inicial": 91526.31
+  },
+  {
+    "id": "CTA-00086",
+    "id_cliente": "CLI-0064",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2021-06-23",
+    "estado": "activa",
+    "saldo_inicial": 61494.61
+  },
+  {
+    "id": "CTA-00087",
+    "id_cliente": "CLI-0065",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-06-19",
+    "estado": "activa",
+    "saldo_inicial": 142085.58
+  },
+  {
+    "id": "CTA-00088",
+    "id_cliente": "CLI-0066",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-09-02",
+    "estado": "bloqueada",
+    "saldo_inicial": 44133.3
+  },
+  {
+    "id": "CTA-00089",
+    "id_cliente": "CLI-0066",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-09-02",
+    "estado": "activa",
+    "saldo_inicial": 72633.69
+  },
+  {
+    "id": "CTA-00090",
+    "id_cliente": "CLI-0067",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-03-02",
+    "estado": "activa",
+    "saldo_inicial": 138319.29
+  },
+  {
+    "id": "CTA-00091",
+    "id_cliente": "CLI-0068",
+    "tipo": "empresa",
+    "divisa": "USD",
+    "fecha_apertura": "2023-01-29",
+    "estado": "activa",
+    "saldo_inicial": 41798.99
+  },
+  {
+    "id": "CTA-00092",
+    "id_cliente": "CLI-0069",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-08-03",
+    "estado": "bloqueada",
+    "saldo_inicial": 76406.78
+  },
+  {
+    "id": "CTA-00093",
+    "id_cliente": "CLI-0069",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-08-03",
+    "estado": "activa",
+    "saldo_inicial": 45134.1
+  },
+  {
+    "id": "CTA-00094",
+    "id_cliente": "CLI-0070",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2025-11-19",
+    "estado": "activa",
+    "saldo_inicial": 72909.04
+  },
+  {
+    "id": "CTA-00095",
+    "id_cliente": "CLI-0071",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-08-30",
+    "estado": "activa",
+    "saldo_inicial": 28703.53
+  },
+  {
+    "id": "CTA-00096",
+    "id_cliente": "CLI-0072",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-04-07",
+    "estado": "activa",
+    "saldo_inicial": 7025.27
+  },
+  {
+    "id": "CTA-00097",
+    "id_cliente": "CLI-0072",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-04-07",
+    "estado": "activa",
+    "saldo_inicial": 58218.77
+  },
+  {
+    "id": "CTA-00098",
+    "id_cliente": "CLI-0073",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-03-03",
+    "estado": "activa",
+    "saldo_inicial": 75592.53
+  },
+  {
+    "id": "CTA-00099",
+    "id_cliente": "CLI-0073",
+    "tipo": "ahorro",
+    "divisa": "USD",
+    "fecha_apertura": "2023-03-03",
+    "estado": "activa",
+    "saldo_inicial": 66325.78
+  },
+  {
+    "id": "CTA-00100",
+    "id_cliente": "CLI-0074",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-04-03",
+    "estado": "activa",
+    "saldo_inicial": 130704.48
+  },
+  {
+    "id": "CTA-00101",
+    "id_cliente": "CLI-0075",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-05-16",
+    "estado": "cerrada",
+    "saldo_inicial": 51114.9
+  },
+  {
+    "id": "CTA-00102",
+    "id_cliente": "CLI-0075",
+    "tipo": "ahorro",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-05-16",
+    "estado": "activa",
+    "saldo_inicial": 127925.03
+  },
+  {
+    "id": "CTA-00103",
+    "id_cliente": "CLI-0075",
+    "tipo": "ahorro",
+    "divisa": "GBP",
+    "fecha_apertura": "2022-05-16",
+    "estado": "activa",
+    "saldo_inicial": 133172.08
+  },
+  {
+    "id": "CTA-00104",
+    "id_cliente": "CLI-0076",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-08-25",
+    "estado": "activa",
+    "saldo_inicial": 102817.74
+  },
+  {
+    "id": "CTA-00105",
+    "id_cliente": "CLI-0077",
+    "tipo": "empresa",
+    "divisa": "EUR",
+    "fecha_apertura": "2025-12-14",
+    "estado": "activa",
+    "saldo_inicial": 146761.49
+  },
+  {
+    "id": "CTA-00106",
+    "id_cliente": "CLI-0078",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-02-28",
+    "estado": "activa",
+    "saldo_inicial": 135561.9
+  },
+  {
+    "id": "CTA-00107",
+    "id_cliente": "CLI-0078",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2024-02-28",
+    "estado": "activa",
+    "saldo_inicial": 54090.27
+  },
+  {
+    "id": "CTA-00108",
+    "id_cliente": "CLI-0079",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2022-12-26",
+    "estado": "activa",
+    "saldo_inicial": 118981.66
+  },
+  {
+    "id": "CTA-00109",
+    "id_cliente": "CLI-0080",
+    "tipo": "corriente",
+    "divisa": "EUR",
+    "fecha_apertura": "2023-03-08",
+    "estado": "activa",
+    "saldo_inicial": 102628.62
+  }
+]

@@ -1,0 +1,50 @@
+
+# Arquitectura Medallion en Data Lakes
+
+La arquitectura Medallion organiza los datos en tres capas:
+
+## Capa Bronze
+Almacena los datos raw tal como llegan de las fuentes.
+No hay transformaciones. Es el registro histórico inmutable.
+Se usa para auditoría y reprocesamiento completo.
+Los datos pueden tener errores, duplicados y formatos inconsistentes.
+
+## Capa Silver
+Datos limpiados, validados y conformados.
+Se aplican reglas de negocio básicas y estandarización de formatos.
+Formato columnar (Parquet o Delta Lake).
+Optimizado para consultas analíticas con esquema definido.
+
+## Capa Gold
+Datos agregados y modelados para consumo directo.
+Modelos dimensionales en estrella o copo de nieve.
+Optimizado para BI, reportes y consumo por aplicaciones.
+Actualizaciones incrementales para minimizar coste de cómputo.
+
+# Data Mesh vs Data Lakehouse
+
+Data Mesh es un paradigma organizacional centrado en cuatro principios:
+datos como producto, propiedad descentralizada por dominio de negocio,
+infraestructura de datos como plataforma self-service,
+y gobernanza federada con estándares globales.
+
+Data Lakehouse combina lo mejor de Data Warehouse y Data Lake:
+transacciones ACID sobre almacenamiento en objeto,
+esquema en escritura con soporte para esquema en lectura,
+soporte simultáneo para cargas OLAP y entrenamiento de modelos ML.
+Tecnologías principales: Delta Lake, Apache Iceberg, Apache Hudi.
+
+# Indices Vectoriales y Busqueda Semantica
+
+Los embeddings son representaciones vectoriales densas de texto.
+Cada fragmento de texto se convierte en un array de numeros flotantes
+que captura su significado semantico en un espacio de alta dimension.
+Textos con significado similar tienen vectores cercanos en ese espacio.
+
+Los indices HNSW permiten busqueda aproximada de vecinos mas cercanos
+con latencia de milisegundos incluso en colecciones de millones de vectores.
+La similitud se mide con cosine similarity o distancia euclidiana.
+
+La diferencia clave con un indice B-tree es que B-tree busca
+coincidencias exactas o rangos, mientras que un indice vectorial
+busca similitud semantica aunque las palabras sean completamente distintas.

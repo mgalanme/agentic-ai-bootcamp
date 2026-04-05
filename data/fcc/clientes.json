@@ -1,0 +1,802 @@
+[
+  {
+    "id": "CLI-0001",
+    "nombre": "Albano Llopis Hierro",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-05-16",
+    "nif": "98847493W"
+  },
+  {
+    "id": "CLI-0002",
+    "nombre": "Nilo Bonet Roca",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-06-01",
+    "nif": "04265799N"
+  },
+  {
+    "id": "CLI-0003",
+    "nombre": "César Guerrero Vazquez",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": true,
+    "fecha_alta": "2024-04-07",
+    "nif": "26687537Q"
+  },
+  {
+    "id": "CLI-0004",
+    "nombre": "Soluciones Ibéricos S.Coop.",
+    "tipo": "empresa",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-08-24",
+    "nif": "J0109031E"
+  },
+  {
+    "id": "CLI-0005",
+    "nombre": "Grupo Rocamora S.Com.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-01-12",
+    "nif": "G56471196"
+  },
+  {
+    "id": "CLI-0006",
+    "nombre": "Aroa Bru Pinto",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-09-27",
+    "nif": "35503389Z"
+  },
+  {
+    "id": "CLI-0007",
+    "nombre": "Lamas & Asociados S.L.",
+    "tipo": "empresa",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-12-09",
+    "nif": "R1322047J"
+  },
+  {
+    "id": "CLI-0008",
+    "nombre": "Ani Marcos Pardo",
+    "tipo": "particular",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2024-02-22",
+    "nif": "77490893Y"
+  },
+  {
+    "id": "CLI-0009",
+    "nombre": "Alonso Goñi Mancebo",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2026-03-08",
+    "nif": "10709497F"
+  },
+  {
+    "id": "CLI-0010",
+    "nombre": "Construcción del Mediterráneo S.C.P",
+    "tipo": "empresa",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-06-07",
+    "nif": "Q2728882H"
+  },
+  {
+    "id": "CLI-0011",
+    "nombre": "Candelas Pellicer Padilla",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-04-21",
+    "nif": "86977837W"
+  },
+  {
+    "id": "CLI-0012",
+    "nombre": "Pascual Bellido-Donoso",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-12-05",
+    "nif": "62043515A"
+  },
+  {
+    "id": "CLI-0013",
+    "nombre": "Ceferino del Pino",
+    "tipo": "particular",
+    "pais_residencia": "KP",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2022-08-09",
+    "nif": "74752529E"
+  },
+  {
+    "id": "CLI-0014",
+    "nombre": "Constanza del Barba",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2022-05-27",
+    "nif": "04308421S"
+  },
+  {
+    "id": "CLI-0015",
+    "nombre": "Hermanos Quero S.C.P",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-04-24",
+    "nif": "P3567281E"
+  },
+  {
+    "id": "CLI-0016",
+    "nombre": "Valentina Miranda-Garcia",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2024-07-13",
+    "nif": "35551614P"
+  },
+  {
+    "id": "CLI-0017",
+    "nombre": "Verónica Segarra Clavero",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-07-31",
+    "nif": "57503414X"
+  },
+  {
+    "id": "CLI-0018",
+    "nombre": "Infraestructuras del Noroeste S.L.N.E",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-04-03",
+    "nif": "W8279821F"
+  },
+  {
+    "id": "CLI-0019",
+    "nombre": "Bruno del Bou",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-01-13",
+    "nif": "91332642X"
+  },
+  {
+    "id": "CLI-0020",
+    "nombre": "Carmelo Cuesta Roca",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-03-28",
+    "nif": "71016525T"
+  },
+  {
+    "id": "CLI-0021",
+    "nombre": "Francisca Solé Ángel",
+    "tipo": "particular",
+    "pais_residencia": "DE",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2022-07-07",
+    "nif": "15374874H"
+  },
+  {
+    "id": "CLI-0022",
+    "nombre": "Teodora de Carbó",
+    "tipo": "particular",
+    "pais_residencia": "DE",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-08-30",
+    "nif": "14972279S"
+  },
+  {
+    "id": "CLI-0023",
+    "nombre": "Pili del Nieto",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-10-24",
+    "nif": "96593904E"
+  },
+  {
+    "id": "CLI-0024",
+    "nombre": "Camila Santiago Acero",
+    "tipo": "particular",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2026-01-09",
+    "nif": "83926371S"
+  },
+  {
+    "id": "CLI-0025",
+    "nombre": "Josué Escalona-Vera",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2025-10-26",
+    "nif": "21682744T"
+  },
+  {
+    "id": "CLI-0026",
+    "nombre": "Sosimo Miguel Vera Flor",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": true,
+    "fecha_alta": "2022-01-08",
+    "nif": "43507489E"
+  },
+  {
+    "id": "CLI-0027",
+    "nombre": "Julián Abascal Morante",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-09-13",
+    "nif": "41273847W"
+  },
+  {
+    "id": "CLI-0028",
+    "nombre": "Gerardo Meléndez Heras",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-07-18",
+    "nif": "98234974L"
+  },
+  {
+    "id": "CLI-0029",
+    "nombre": "Ani Boada-Torre",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2025-05-03",
+    "nif": "17232410M"
+  },
+  {
+    "id": "CLI-0030",
+    "nombre": "Raquel de Castellanos",
+    "tipo": "particular",
+    "pais_residencia": "VG",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2024-07-21",
+    "nif": "70823176N"
+  },
+  {
+    "id": "CLI-0031",
+    "nombre": "Infraestructuras Álamo S.L.N.E",
+    "tipo": "empresa",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-05-16",
+    "nif": "G52297314"
+  },
+  {
+    "id": "CLI-0032",
+    "nombre": "Julián Font",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-10-26",
+    "nif": "60597444B"
+  },
+  {
+    "id": "CLI-0033",
+    "nombre": "Nazaret Perea Ríos",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-10-02",
+    "nif": "30885476H"
+  },
+  {
+    "id": "CLI-0034",
+    "nombre": "Azeneth Huguet Gomila",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2021-07-29",
+    "nif": "09046318G"
+  },
+  {
+    "id": "CLI-0035",
+    "nombre": "Grupo Giménez S.A.",
+    "tipo": "empresa",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-10-17",
+    "nif": "V3594297H"
+  },
+  {
+    "id": "CLI-0036",
+    "nombre": "Darío Bauzà Angulo",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2025-07-21",
+    "nif": "32614537P"
+  },
+  {
+    "id": "CLI-0037",
+    "nombre": "Industrias ILG S.L.N.E",
+    "tipo": "empresa",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-02-10",
+    "nif": "S5944126A"
+  },
+  {
+    "id": "CLI-0038",
+    "nombre": "Daniela Suárez Ramírez",
+    "tipo": "particular",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2022-03-17",
+    "nif": "86728778X"
+  },
+  {
+    "id": "CLI-0039",
+    "nombre": "Narciso Rosa Pablo",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-05-17",
+    "nif": "33374088F"
+  },
+  {
+    "id": "CLI-0040",
+    "nombre": "Teresa Balaguer Cabello",
+    "tipo": "particular",
+    "pais_residencia": "DE",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-07-23",
+    "nif": "62092888H"
+  },
+  {
+    "id": "CLI-0041",
+    "nombre": "Rosalía Canales Ibarra",
+    "tipo": "particular",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-03-19",
+    "nif": "73863413V"
+  },
+  {
+    "id": "CLI-0042",
+    "nombre": "Jacinta de Roca",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": true,
+    "fecha_alta": "2022-03-05",
+    "nif": "12517517C"
+  },
+  {
+    "id": "CLI-0043",
+    "nombre": "Josep Benet Salazar S.L.L.",
+    "tipo": "empresa",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-07-14",
+    "nif": "G67283390"
+  },
+  {
+    "id": "CLI-0044",
+    "nombre": "Comercial ZRYW S.L.L.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-02-01",
+    "nif": "U4785687G"
+  },
+  {
+    "id": "CLI-0045",
+    "nombre": "Juliana García Quero",
+    "tipo": "particular",
+    "pais_residencia": "KY",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2025-10-07",
+    "nif": "74593961Q"
+  },
+  {
+    "id": "CLI-0046",
+    "nombre": "Goyo Abril Portero",
+    "tipo": "particular",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-08-01",
+    "nif": "07849494P"
+  },
+  {
+    "id": "CLI-0047",
+    "nombre": "Eloísa Rocha Torrecilla",
+    "tipo": "particular",
+    "pais_residencia": "DE",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2022-01-11",
+    "nif": "78406989N"
+  },
+  {
+    "id": "CLI-0048",
+    "nombre": "César Ambrosio Barrera Mir",
+    "tipo": "particular",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-07-17",
+    "nif": "68159587F"
+  },
+  {
+    "id": "CLI-0049",
+    "nombre": "Judith Valverde-Criado",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-07-16",
+    "nif": "31568532C"
+  },
+  {
+    "id": "CLI-0050",
+    "nombre": "Anita Estevez",
+    "tipo": "particular",
+    "pais_residencia": "VG",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2021-08-07",
+    "nif": "77701200R"
+  },
+  {
+    "id": "CLI-0051",
+    "nombre": "Nicolás Gutierrez Quintanilla",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-11-08",
+    "nif": "70166708X"
+  },
+  {
+    "id": "CLI-0052",
+    "nombre": "Delia Ariño-Bilbao",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2023-05-09",
+    "nif": "35650176S"
+  },
+  {
+    "id": "CLI-0053",
+    "nombre": "Marcia Yáñez-Molina",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-12-05",
+    "nif": "09736572M"
+  },
+  {
+    "id": "CLI-0054",
+    "nombre": "Nicanor Miralles",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-06-13",
+    "nif": "72160068Y"
+  },
+  {
+    "id": "CLI-0055",
+    "nombre": "Benigna Marín Sebastián",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2022-11-02",
+    "nif": "32787299V"
+  },
+  {
+    "id": "CLI-0056",
+    "nombre": "Adalberto Sedano Cabo",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2021-08-15",
+    "nif": "82097999M"
+  },
+  {
+    "id": "CLI-0057",
+    "nombre": "Infraestructuras Globales S.L.N.E",
+    "tipo": "empresa",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-08-29",
+    "nif": "N1737893F"
+  },
+  {
+    "id": "CLI-0058",
+    "nombre": "Promociones Inteligentes S.A.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-06-04",
+    "nif": "E45692449"
+  },
+  {
+    "id": "CLI-0059",
+    "nombre": "Mariano Sancho Ángel Aguiló",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-08-05",
+    "nif": "35431319A"
+  },
+  {
+    "id": "CLI-0060",
+    "nombre": "Emperatriz de Cañizares",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2022-07-30",
+    "nif": "85132217V"
+  },
+  {
+    "id": "CLI-0061",
+    "nombre": "Ramiro Cortés Lladó",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-08-31",
+    "nif": "85511909W"
+  },
+  {
+    "id": "CLI-0062",
+    "nombre": "Manufacturas Ibérica S.L.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-07-09",
+    "nif": "A18769323"
+  },
+  {
+    "id": "CLI-0063",
+    "nombre": "Laura Iglesias",
+    "tipo": "particular",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2025-10-13",
+    "nif": "49555330J"
+  },
+  {
+    "id": "CLI-0064",
+    "nombre": "Arturo Roda Lloret",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2021-06-23",
+    "nif": "05354599S"
+  },
+  {
+    "id": "CLI-0065",
+    "nombre": "Castrillo y asociados S.A.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-06-19",
+    "nif": "S2592974F"
+  },
+  {
+    "id": "CLI-0066",
+    "nombre": "Agustí y Caparrós S.A.",
+    "tipo": "empresa",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-09-02",
+    "nif": "F6917152H"
+  },
+  {
+    "id": "CLI-0067",
+    "nombre": "Leandro Araujo Peiró",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-03-02",
+    "nif": "89913412H"
+  },
+  {
+    "id": "CLI-0068",
+    "nombre": "Suministros Castell S.A.",
+    "tipo": "empresa",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-01-29",
+    "nif": "D64179856"
+  },
+  {
+    "id": "CLI-0069",
+    "nombre": "Hermanos Gallo S.L.",
+    "tipo": "empresa",
+    "pais_residencia": "PT",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-08-03",
+    "nif": "U5866294A"
+  },
+  {
+    "id": "CLI-0070",
+    "nombre": "Reyna Ramos Cortes",
+    "tipo": "particular",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "bajo",
+    "pep": true,
+    "fecha_alta": "2025-11-19",
+    "nif": "25921441G"
+  },
+  {
+    "id": "CLI-0071",
+    "nombre": "Toni de Elorza",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2025-08-30",
+    "nif": "47130035E"
+  },
+  {
+    "id": "CLI-0072",
+    "nombre": "Chuy Márquez Requena",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2025-04-07",
+    "nif": "03704481D"
+  },
+  {
+    "id": "CLI-0073",
+    "nombre": "Eliseo de Campoy",
+    "tipo": "particular",
+    "pais_residencia": "IR",
+    "segmento_riesgo": "alto",
+    "pep": false,
+    "fecha_alta": "2023-03-03",
+    "nif": "35630292A"
+  },
+  {
+    "id": "CLI-0074",
+    "nombre": "Timoteo Sosa Girón",
+    "tipo": "particular",
+    "pais_residencia": "DE",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-04-03",
+    "nif": "58571795H"
+  },
+  {
+    "id": "CLI-0075",
+    "nombre": "Felicia Mayoral Goñi",
+    "tipo": "particular",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-05-16",
+    "nif": "34188276H"
+  },
+  {
+    "id": "CLI-0076",
+    "nombre": "Heraclio Moya",
+    "tipo": "particular",
+    "pais_residencia": "FR",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-08-25",
+    "nif": "92188405N"
+  },
+  {
+    "id": "CLI-0077",
+    "nombre": "Inmobiliaria HUZ S.Coop.",
+    "tipo": "empresa",
+    "pais_residencia": "IT",
+    "segmento_riesgo": "medio",
+    "pep": false,
+    "fecha_alta": "2025-12-14",
+    "nif": "C55398374"
+  },
+  {
+    "id": "CLI-0078",
+    "nombre": "Valentín Julián Escalona",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2024-02-28",
+    "nif": "68064830X"
+  },
+  {
+    "id": "CLI-0079",
+    "nombre": "Alejo Camps-Rovira",
+    "tipo": "particular",
+    "pais_residencia": "ES",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2022-12-26",
+    "nif": "17084279V"
+  },
+  {
+    "id": "CLI-0080",
+    "nombre": "Isa Vidal Carlos",
+    "tipo": "particular",
+    "pais_residencia": "GB",
+    "segmento_riesgo": "bajo",
+    "pep": false,
+    "fecha_alta": "2023-03-08",
+    "nif": "23357554L"
+  }
+]
